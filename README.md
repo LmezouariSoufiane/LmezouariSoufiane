@@ -3,10 +3,10 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+osama+lmezouari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lmezouari+Soufiane!;" />
 </h1>
 
-<h3 align="left" letter-spacing="4px">Full-stack developer on the path to specializing in React. I'm dedicated to refining my skills and crafting proficient web applications with a growing expertise in front-end technologies.</h3>
+<h3 align="left" letter-spacing="4px">Data statistician and analyst with a strong foundation in statistical modeling and data interpretation. I'm committed to enhancing my analytical skills and delivering data-driven insights, with a growing focus on leveraging advanced machine learning and statistical tools.</h3>
 
 <br/>
  
@@ -24,7 +24,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,R," /><br>
+    <img src="https://skillicons.dev/icons?i=git,python,r,mysql,PyCharm" /><br>
 </div>
 
 <br/>
